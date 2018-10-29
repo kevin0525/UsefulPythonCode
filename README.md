@@ -8,4 +8,4 @@ code function: renaming pic name in a folder
 
 3.open a terminal and run 
 
-  python rename.py
+    python rename.py
